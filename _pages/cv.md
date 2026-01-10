@@ -21,6 +21,15 @@ Education
   *Thesis*: The origins of the L2 after-effect in bilingual language production: an ERP investigation
   *Advisors*: Zofia Wodniecka
 
+Publications
+============
+See my publications [**here**](/publications/).
+
+Funding
+===================
+  * Postdoctoral Fellowship, Simons Centre for the Social Brain (2025-2027)
+  * Preludium grant, National Science Centre in Poland (2022-2026)
+  * Intramural grants for early career researchers, Jagiellonian University (2022)
 
 Awards and Honors
 ==================
@@ -32,15 +41,3 @@ Awards and Honors
 * Andrzej de Bauvale’a Award for the best master thesis defended in 2018 in the Institute of Psychology at the Jagiellonian University (2018)
 * Scholarship of Polish Ministry of Science and Higher Education for best students (2016,2017)
 * Scholarship of the Chancellor of Jagiellonian University for best students (2014-2017)
-
-
-Publications
-============
-See my publications [**here**](/publications/).
-
-Funding
-===================
-  * Postdoctoral Fellowship, Simons Centre for the Social Brain (2025-2027)
-  * Preludium grant, National Science Centre in Poland (2022-2026)
-  * Intramural grants for early career researchers, Jagiellonian University (2022)
- 
