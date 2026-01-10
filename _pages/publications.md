@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-All my articles can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=pl&user=XGQcds8AAAAJ&view_op=list_works&sortby=pubdate).
+All my work can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=pl&user=XGQcds8AAAAJ&view_op=list_works&sortby=pubdate).
 
----
 ## Language system in the brain 🧠
 ---
 - **Wolna, A.**, Wright, A., Casto, C., Hutchinson, S., Lipkin, B., & Fedorenko, E. (2025). The extended language network: Language selective brain areas whose contributions to language remain to be discovered. *BioRxiv (Preprint)* [DOI](https://doi.org/10.1101/2025.04.02.646835) [PDF](/files/publications/2025-biorxiv-ExtendedLanguageNetwork.pdf)
