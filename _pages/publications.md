@@ -16,11 +16,11 @@ All my articles can be found on my [Google Scholar profile](https://scholar.goog
 
 ## Bilingualism 
 ---
-# Neural basis of bilingual language control 🧠 
+### Neural basis of bilingual language control 🧠 
 - **Wolna, A.**, Szewczyk, J., Diaz, M., Domagalik, A., Szwed, M., Wodniecka, Z. (2024) Domain-general and language-specific contributions to speech production in L2: an fMRI study using functional localizers. *Scientific Reports 14*(57). [DOI](https://doi.org/10.1038/s41598-023-49375-9) [PDF](/files/publications/2024-SR-DomainGeneralAndLangSpecificContributionsToSpeechProdInL2.pdf)
 - **Wolna, A.**, Szewczyk, J., Diaz, M., Domagalik, A., Szwed, M., Wodniecka, Z. (2024) Tracking components of bilingual language control in speech production: an fMRI study using functional localizers. *Neurobiology of Language. 5*(2): 315–340. [DOI](https://doi.org/10.1162/nol_a_00128) [PDF](/files/publications/2024-NoL-TrackingComponentsOfBilingualLangControl.pdf)
 
-# Cognitive control in bilinguals and its adaptations to context
+### Cognitive control in bilinguals and its adaptations to context
 - Timmer, K*., **Wolna, A***., Szewczyk, J., & Wodniecka, Z. (2025). Language Context Flexibly Modulates Language Control Mechanisms. *SSRN (Preprint)*. [DOI](http://dx.doi.org/10.2139/ssrn.5155536). [PDF](/files/publications/2025-SSRN-LanguageContextFlexiblyModulatesControlMechanisms.pdf) 
 - Casado, A., Walther, J., **Wolna, A.**, Szewczyk, J., Sorace, A., & Wodniecka, Z. (2025). Investigation of long-and short-term adaptations of the bilingual language system to different language environments: Evidence from the ERPs. *Journal of Neurolinguistics, 74*, 101242. [DOI](https://doi.org/10.1016/j.jneuroling.2024.101242)
 - Timmer, K., **Wolna, A.**, & Wodniecka, Z. (2024). The impact of cues on language switching: do spoken questions reduce the need for bilingual language control? *Bilingualism: Language and Cognition* 1-19. [DOI](https://doi.org/10.1017/S1366728924000841) [PDF](/files/publications/2025-BLC-ImpactOfCuesOnLST.pdf)
