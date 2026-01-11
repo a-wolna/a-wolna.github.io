@@ -34,3 +34,9 @@ In this line of my research I study the characteristics of the high-level langua
 ---
 Comming soon!
 
+## Interesting brains
+---
+What are the limits of functional specialization in the brain? How does it look like in anatomically atypical brains? In this project we ask this question by looking at a very special population: individuals with significant innate or early lesions in the brain (including cysts of different origins, early stroke, and surgical resections) who despite their unique anatomy live largely symptom-free lives.  
+
+You can read more about Interesting brains [**here**](https://web.mit.edu/~interestingbrains/about.html)
+
