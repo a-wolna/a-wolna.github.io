@@ -11,5 +11,5 @@ I completed my Ph.D. in [Cognitive Neuroscience Program](https://cognes.uj.edu.p
 
 ----
 
-For a list of my publications see: [**publications**](/publications)
-For more information on my current projects see: [**projects**](/projects)
+For a list of my publications see: [**publications**](/publications)  
+For more information on my current projects see: [**projects**](/projects)  
