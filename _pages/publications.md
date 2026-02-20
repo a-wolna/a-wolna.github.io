@@ -13,7 +13,7 @@ All my work can be found on my [Google Scholar profile](https://scholar.google.c
 ---
 - **Wolna, A.**, Wright, A., Casto, C., Hutchinson, S., Lipkin, B., & Fedorenko, E. (2025). The extended language network: Language selective brain areas whose contributions to language remain to be discovered. *BioRxiv (Preprint)* [DOI](https://doi.org/10.1101/2025.04.02.646835) [PDF](/files/publications/2025-biorxiv-ExtendedLanguageNetwork.pdf)
 - Billot, A., Jhingan, N., Varkanitsa, M., **Wolna, A.**, Shain,C., Blank, I., Ryskin, R., Kiran, S., Fedorenko, E. (2025). The language network ages well: Preserved topography, lateralization, selectivity, and within-network functional connectivity in older brains. *BioRxiv (Preprint)* [DOI](https://doi.org/10.1101/2024.10.23.619954) [PDF](/files/publications/2025-biorxiv-LanguageNetworkAgesWell.pdf)
-- Casto, C., Small, H., Poliak, M., Tuckute, G., Lipkin, B., **Wolna, A.**, D'Mello, A., & Fedorenko, E. (2025). The cerebellar components of the human language network. *Neuron* (in press)
+- Casto, C., Small, H., Poliak, M., Tuckute, G., Lipkin, B., **Wolna, A.**, D'Mello, A., & Fedorenko, E. (2025). The cerebellar components of the human language network. *Neuron* [DOI](https://doi.org/10.1016/j.neuron.2025.12.030) [PDF](/files/publications/2026-Neuron-Cerebellum.pdf)
 
 ## Bilingualism 
 ---
